@@ -1,0 +1,12 @@
+{
+  "valid_user": {
+    "nickName": "自动化测试",
+    "password": "Aa123456",
+    "phonenumber": "13800138003",
+    "status": "0"
+  },
+  "invalid_user": {
+    "nickName": "",
+    "password": "123456"
+  }
+}
